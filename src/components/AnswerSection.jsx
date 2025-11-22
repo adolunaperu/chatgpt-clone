@@ -31,6 +31,7 @@ const AnswerSection = ({ storedValues }) => {
                     );
                 })}
             </div>
+            <div>Hello world</div>
         </>
     )
 }
